@@ -94,11 +94,11 @@ The objective of this project is to demonstrate Power BI skills in:
 
 ---
 
-## 👩‍💻 Author
+
 
 **Samreen Fatima**
 
-BS Data Science
+ Data Science
 
 Interested in:
 - Data Analytics
